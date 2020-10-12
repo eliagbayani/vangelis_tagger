@@ -1,3 +1,4 @@
+------------------------------------------------------
 Removed per Vangelis suggestion:
 
 1007000588	rivers
@@ -6,14 +7,21 @@ Removed per Vangelis suggestion:
 this was added as a fix by Vangelis
 1007000023	rivers
 
+------------------------------------------------------
+by Jen: changed 
+from: 1007000023	ENVO:00000022
+to:   1007000023	ENVO:01000253
 
-by Jen: change from:
-1007000023	ENVO:00000022
-
-replaced by:
-1007000023	ENVO:01000253
-
-in env_entities
-1007000023	-27	ENVO:00000022
-to
-1007000023	-27	ENVO:01000253
+in env_entities (complemented by Eli)
+from: 1007000023	-27	ENVO:00000022
+to:   1007000023	-27	ENVO:01000253
+------------------------------------------------------
+removed by Jen:
+1007000301	shrub
+1007000301	shrubs
+1007000301	shrubby
+1007000301	shrubbies
+1007000301	shrubland
+1007000301	shrublandic
+1007000301	shrublands
+------------------------------------------------------
